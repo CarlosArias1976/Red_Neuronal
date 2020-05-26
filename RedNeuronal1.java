@@ -25,26 +25,28 @@ public class RedNeuronal1 {
         // TODO code application logic here
         Scanner objeto=new Scanner(System.in);
         
-        System.out.println("Nombre de Paper");
+        System.out.println("Nombre de Paper:");
         String NombrePaper=objeto.nextLine();
         
-        System.out.println("Que es una Red Neuronal");
+        System.out.println("Que es una Red Neuronal:");
         String RedNeuronal=objeto.nextLine();
         
-        System.out.println("Elementos que forman una Red Neuronal");
+        System.out.println("Elementos que forman una Red Neuronal:");
         String ElementosRedNeuronal=objeto.nextLine();
         
-        System.out.println("Utilizacion de la red Neuronal en el Proyecto");
+        System.out.println("Utilizacion de la red Neuronal en el Proyecto:");
         String UtlilizacionRedNeuronalEnProyecto=objeto.nextLine();
         
-        System.out.println("Utilizacion de la Red Neuronal Estudiante para mejorar");
+        System.out.println("Utilizacion de la Red Neuronal Estudiante para mejorar:");
         String UtilizacionRedNeuronalEstudianteParaMejorar=objeto.nextLine();
         
-        System.out.println("Entrenamiento utilizando la Red Neuronal");
+        System.out.println("Entrenamiento utilizando la Red Neuronal:");
         String EntrenamientoUtilizandoRedNeuronal=objeto.nextLine();
         
-        System.out.println("Algoritmo Utilizado");
+        System.out.println("Algoritmo Utilizado:");
         String AlgoritmoUtilizado=objeto.nextLine();
+        
+        System.out.println("MUCHAS GRACIAS POR SUS RESPUESTAS");
         
      
         
